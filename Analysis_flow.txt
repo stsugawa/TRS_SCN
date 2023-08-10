@@ -1,0 +1,13 @@
+##Make Dataset
+CovBat.R 
+MakeDatasetForNBS.R
+Residualizing_202111.R 
+
+##NBS
+main_MultipleRun_m
+summarize_result.m
+
+##IDSC analysis
+Individual_Structural_Covariance_Script.R 
+IDSC_analysis
+
